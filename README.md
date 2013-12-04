@@ -12,3 +12,6 @@ Tools
 ## Web Fonts
 - [Fontastic](http://fontastic.me/), [IcoMoon](http://icomoon.io/) - Онлайн сборка иконочных шрифтов
 - [www.font-face-generator.com/](http://www.font-face-generator.com/)
+
+## Icons
+- [UIcons](http://www.uicons.co/)
